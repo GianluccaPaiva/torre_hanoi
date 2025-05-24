@@ -30,7 +30,6 @@ Com essa imagem fica mais visual, seguindo a ideia em que discos menores não po
 
 The proposed idea is a logic with three towers, through which the disks will be moved, following the Tower of Hanoi algorithm recursively. Thus, tower A will be the source tower, tower B will be the destination tower, and tower C will be the auxiliary tower, as shown in the illustration below.
 
-     ![alt text](imagem/image.png)
 
 With this image, the concept becomes more visual, emphasizing the rule that smaller disks cannot be placed below larger disks. The algorithm follows the idea that:
 
